@@ -87,7 +87,7 @@ The histogram helps in understanding how population values are distributed acros
 The completion of this task and key learnings have been shared on LinkedIn as part of the internship requirements.
 
 **LinkedIn Post Link:**  
-(Add your LinkedIn Task-01 post URL here)
+(https://www.linkedin.com/posts/mdharisasad_prodigyinfotech-datascience-internship-activity-7424415338089304066-chE7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFGVweYBCvsvIAPHEyyATsM94_16cOJtjxY)
 
 ---
 
